@@ -4,7 +4,7 @@
 
 **:man_teacher: Instrutor:** Lucas Vilaboim (__Front-end Engineer_ em _luizalabs_)
 
-**:clock10: Carga Horária: **6 horas
+**:clock10: Carga Horária:** 6 horas
 
 **:mortar_board: BootCamp:** Decola Dev Avanade
 
