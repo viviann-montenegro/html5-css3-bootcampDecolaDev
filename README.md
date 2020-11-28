@@ -1,6 +1,6 @@
 # Projeto #01 - Site pessoal com HTML5 e CSS3 :desktop_computer:
 
-**:book:Curso:** Introdução a criação de websites com HTML5 e CSS3
+**:book: Curso:** Introdução a criação de websites com HTML5 e CSS3
 
 **:man_teacher: Instrutor:** Lucas Vilaboim (__Front-end Engineer_ em _luizalabs_)
 
