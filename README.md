@@ -10,4 +10,4 @@
 
 **:school: Organização:** Digital Innovation One
 
-**:woman_student: Dev:** Viviann Montenegro (_Developer Autodidata Iniciante_)
+**:woman_student: Dev:** Viviann Montenegro (_Beginner Self-Taught Developer_)
