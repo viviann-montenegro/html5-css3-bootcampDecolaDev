@@ -1,5 +1,6 @@
 body {
 	background: #f7f7f7;
+	font-family: Verdana;
 }
 
 .photo {
@@ -10,6 +11,16 @@ body {
 }
 
 #title, .subtitle, .post_title {
+	color: #AD00ff;
+}
+
+#title {
+	font-size: 48px;
+	text-transform: uppercase;
+}
+
+a{
+	text-decoration: underline;
 	color: #AD00ff;
 }
 
