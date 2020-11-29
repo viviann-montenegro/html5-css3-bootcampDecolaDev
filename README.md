@@ -2,7 +2,7 @@
 
 **:book: Curso:** Introdução a criação de websites com HTML5 e CSS3
 
-**:man_teacher: Instrutor:** Lucas Vilaboim (__Front-end Engineer_ em _luizalabs_)
+**:man_teacher: Instrutor:** Lucas Vilaboim (_Front-end Engineer_ em _luizalabs_)
 
 **:clock10: Carga Horária:** 6 horas
 
